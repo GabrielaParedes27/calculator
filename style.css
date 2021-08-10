@@ -66,3 +66,10 @@ button:active {
 #prev-value {
   font-size: 2em;
 }
+
+footer {
+  text-align: center;
+  font-size: small;
+  margin-top: -25px;
+  padding-top: 0;
+}
